@@ -15,7 +15,7 @@ The "Text Image to PDF Translator" is a Python script designed to convert images
 1. Clone the repository:
 
     ```bash
-    git clone [https://github.com/NuIled/IMG_TO_PDF_TRANSLATOR/.git](https://github.com/NuIled/IMG_TO_PDF_TRANSLATOR.git)
+    git clone https://github.com/NuIled/IMG_TO_PDF_TRANSLATOR.git
     ```
 
 2. Navigate to the project directory:
